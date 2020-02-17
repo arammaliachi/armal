@@ -1,7 +1,7 @@
 ## Relevant contributions to the open source community
 
 #### Published articles in Microsoft DevBlogs:  
-[Understanding delta file changes and merge conflicts in Git pull requests](https://devblogs.microsoft.com/devops/understanding-delta-file-changes-and-merge-conflicts-in-git-pull-requests/) - Published.
+:heavy_check_mark: [Understanding delta file changes and merge conflicts in Git pull requests](https://devblogs.microsoft.com/devops/understanding-delta-file-changes-and-merge-conflicts-in-git-pull-requests/) - Published.
 
 #### Changes to official Microsoft docs:  
 - MicrosoftDocs/vsts-docs [Build Xamarin apps](https://docs.microsoft.com/azure/devops/pipelines/ecosystems/xamarin?view=azure-devops&tabs=yaml)  
