@@ -21,7 +21,7 @@ data
 **|&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;|--** Daily report on performance metrics for agency HISP_LATAM_AMNET.  
 
 
-![AWS solution](/architecture/aws-solution.png)
+![AWS solution](/solutions/architecture/aws-solution.png)
 
 Our solution ingests, processes and analyzes all these data sources to extract meaningful insights about **campaign performance**, **account management** and **budget status** in an automated fashion.
 
